@@ -6,11 +6,11 @@ public class PanelTest extends JFrame {
 	PanelTest(){
 		setTitle("PanelTest");
 		setSize(800, 1280);
-    setLocation(300,200);
+    		setLocation(300,200);
 		setVisible(true);
-    setResizable(false);
+    		setResizable(false);
 	}
 
-		mb.add(screenMenu);
+	mb.add(screenMenu);
 
 }
